@@ -8,6 +8,8 @@ If you are not familiar with the class, please advise the relevant page:
 
 https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/AI.AI_A2A_Dispatcher.html
 
+I am not an experienced programmer, coding is just a hobby, so feedback is more than welcome.
+
 ![DISP1](https://github.com/user-attachments/assets/d0e6e41c-eb4a-4c7b-8384-a4be389cecbd)
 
 
