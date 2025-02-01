@@ -4,7 +4,9 @@
 
 **Description:** This programm allows you to setup your MOOSE AI A2A Dispatcher without having to code in Lua. The program generates the Lua code itself based on the user's inputs.
 
-If you are not familiar with the class, please advise relevant page: https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/AI.AI_A2A_Dispatcher.html
+If you are not familiar with the class, please advise relevant page:
+
+https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/AI.AI_A2A_Dispatcher.html
 
 ![DISP1](https://github.com/user-attachments/assets/d0e6e41c-eb4a-4c7b-8384-a4be389cecbd)
 
